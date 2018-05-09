@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CronJob:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="cronjob.war">
+      <element id="artifact" artifact-name="CronJob:war exploded" />
+    </root>
+  </artifact>
+</component>
